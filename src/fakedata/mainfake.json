@@ -1,0 +1,30 @@
+ [
+    {
+        "id": 20225,
+        "type": "bike",
+        "picture": "https://i.ibb.co/NVrqKL9/Frame.png",
+        "passenger": 4,
+        "cost": 50
+      },
+      {
+        "id": 201225,
+        "type": "car",
+        "picture": "https://i.ibb.co/kKpgV3J/Frame-2.png",
+        "passenger": 4,
+        "cost": 50
+      },
+      {
+        "id": 30225,
+        "type": "train",
+        "picture": "https://i.ibb.co/tH5Q1bf/Group.png",
+        "passenger": 3,
+        "cost": 55
+      },
+      {
+        "id": 510225,
+        "type": "bus",
+        "picture": "https://i.ibb.co/M50rRvC/Frame-1.png",
+        "passenger": 4,
+        "cost": 45
+      }
+]
